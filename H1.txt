@@ -1,0 +1,11 @@
+<HTML>
+<HEAD>
+<TITLE>H1</TITLE>
+<BODY BGCOLOR="#FFA07A">
+<CENTER>
+<IMG SRC="https://th.bing.com/th/id/OIP.tUsqfCIIOhw-uCDrcfpkyAHaLH?w=127&h=190&c=7&r=0&o=5&pid=1.7" HEIGHT="100" WIDTH="100">
+<FONT FACE="COOPER BLACK" SIZE="7">IDEN-TEA-FY</FONT>
+</CENTER>
+</BODY>
+</HEAD>
+</HTML>
